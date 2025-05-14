@@ -17,7 +17,7 @@ description: "Retextures the fire animation. Go to releases for different verson
 version: 1.0
 
 #the minimum game build required to run this mod
-minGameVersion: any
+minGameVersion: 146
 
 #this is a java mod
 java: false
